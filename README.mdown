@@ -1,0 +1,9 @@
+Some docs I wrote or rare docs.
+
+These documents can be in english or in french ...
+
+---
+
+For more information see [Project homepage](http://www.bitbucket.org/Bounga/docs/)
+
+Problems, comments, and suggestions are welcome on the [ticket system](http://www.bitbucket.org/Bounga/docs/tickets/new)
